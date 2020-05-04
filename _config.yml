@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: Microkernel Valley
 description: Microkernel- and Component-based Operating System Community in Dresden
 #logo: [Location of the logo]
+
+exclude:
+  - README.md
+
+include:
+  - .well-known
