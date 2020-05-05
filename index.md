@@ -11,7 +11,7 @@ If you are interested in joining our casual events, consider joining the
 follow [ukvly](https://twitter.com/ukvly) on Twitter.
 
 For general discussion, join our chat room. You can find it via Matrix
-([ukvly:matrix.org](https://riot.im/app/#/room/#ukvly:matrix.org)) or
+([#ukvly:ukvly.org](https://riot.ukvly.org/#/room/#ukvly:ukvly.org)) or
 as #ukvly on [Freenode IRC](https://webchat.freenode.net/).
 
 Also check out our podcast on [syslog.show](https://syslog.show/).
